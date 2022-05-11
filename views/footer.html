@@ -82,17 +82,17 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
     <!-- jQuery sticky menu -->
-    <script src="../app/js/owl.carousel.min.js"></script>
-    <script src="../app/js/jquery.sticky.js"></script>
+    <script src="../app/site/js/owl.carousel.min.js"></script>
+    <script src="../app/site/js/jquery.sticky.js"></script>
 
     <!-- jQuery easing -->
-    <script src="./../app/js/jquery.easing.1.3.min.js"></script>
+    <script src="./../app/site/js/jquery.easing.1.3.min.js"></script>
 
     <!-- Main Script -->
-    <script src="../app/js/main.js"></script>
+    <script src="../app/site/js/main.js"></script>
 
     <!-- Slider -->
-    <script type="text/javascript" src="../app/js/bxslider.min.js"></script>
-    <script type="text/javascript" src="../app/js/script.slider.js"></script>
+    <script type="text/javascript" src="../app/site/js/bxslider.min.js"></script>
+    <script type="text/javascript" src="../app/site/js/script.slider.js"></script>
 </body>
 </html>
